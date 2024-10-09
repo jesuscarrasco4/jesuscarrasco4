@@ -9,11 +9,6 @@
 - 🌱 Actualmente estoy aprendiendo más sobre **JavaScript, HTML, CSS, PHP...**
 <hr> 
 
-## Lenguajes y Herramientas
-
-![trophy](https://skillicons.dev/icons?i=kotlin,java,cs,androidstudio,idea,visualstudio,dotnet,firebase,git,github,stackoverflow,postman&perline=18)
-<hr> 
-
 ## **Contáctame**
 
 <div align='left'>
