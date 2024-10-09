@@ -45,3 +45,7 @@
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=316x3q2rfqp2hwfew7ix36zokei4&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/316x3q2rfqp2hwfew7ix36zokei4)
 
 <hr>
+
+## 🎶 Mi lista de reproducción favorita
+
+[Escucha mi lista de reproducción en Spotify](https://open.spotify.com/playlist/6kkQ9XHXVqVy28p6mA63kC?si=q3Mn_2MjT-e_DTXrAN2wFQ)
