@@ -38,8 +38,10 @@
   </ul>
 </div>
 
-## Mi Playlist de Spotify 🎶
+<hr>
 
-[![Spotify Playlist](https://upload.wikimedia.org/wikipedia/commons/7/74/Spotify_App_Logo.svg)](https://open.spotify.com/playlist/6kkQ9XHXVqVy28p6mA63kC)
+## 🎧 Lo que estoy escuchando en Spotify:
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=jesusscarrasco4_&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/jesusscarrasco4_)
 
 <hr>
