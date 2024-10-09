@@ -40,6 +40,6 @@
 
 ## Mi Playlist de Spotify 🎶
 
-[![Spotify Playlist]([https://upload.wikimedia.org/wikipedia/commons/7/74/Spotify_App_Logo.svg)](https://open.spotify.com/playlist/TU_PLAYLIST_ID](https://open.spotify.com/playlist/6kkQ9XHXVqVy28p6mA63kC))
+[![Spotify Playlist](https://upload.wikimedia.org/wikipedia/commons/7/74/Spotify_App_Logo.svg)](https://open.spotify.com/playlist/6kkQ9XHXVqVy28p6mA63kC)
 
 <hr>
