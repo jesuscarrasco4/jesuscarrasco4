@@ -3,7 +3,7 @@
 <h3 align="center">Web application development student</h3>
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/8759/8759392.png" width="50">
+  <img src="https://cdn-icons-png.flaticon.com/512/1208/1208833.png" width="50">
 </p>
 
 <h4 align="center">
