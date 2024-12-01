@@ -16,8 +16,11 @@
 
 ## Sobre mí
 
-- Apasionado de la tecnología, con ganas de poner en práctica todos mis conocimientos adquiridos. Me gusta trabajar en equipo y dar lo máximo de mí.
-- Actualmente estoy aprendiendo más sobre **JavaScript, HTML, CSS, PHP...**
+Soy Jesús Carrasco, un joven desarrollador apasionado por el mundo del software. Hace un par años decidí comenzar mi carrera en el mundo de la programación, y desde entonces no he dejado de aprender y crecer en este fascinante campo.
+
+He dedicado este tiempo a fortalecer mis conocimientos, a través de la educación formal, los cuales me han permitido explorar diversas tecnologías y metodologías.
+
+Me considero una persona con iniciativa. Disfruto proponiendo soluciones creativas y abordando los problemas como retos. Con 19 años, mi entusiasmo y compromiso con el desarrollo de software solo siguen creciendo.
 
 <hr>
 
