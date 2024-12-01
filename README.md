@@ -30,7 +30,7 @@ Me considero una persona con iniciativa. Disfruto proponiendo soluciones creativ
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:jesusscarrassco4@gmail.com" style="text-decoration: none; color: inherit;">
+  <a href="jesusscarrassco4@gmail.com" style="text-decoration: none; color: inherit;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" width="30">
   </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
