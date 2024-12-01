@@ -39,8 +39,3 @@
   </ul>
 </div>
 
-<hr>
-
-## 🎧 Lo que estoy escuchando en Spotify:
-
-[![Spotify]([https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME](https://vercel.com/jesuscarrasco4s-projects/spotify-music-playing/Ay8ARv4R3qXqwi5T8AbqdMPry8YZ))
