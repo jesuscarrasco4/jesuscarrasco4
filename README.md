@@ -27,7 +27,7 @@
   <ul style="list-style: none; padding: 0;">
     <li>
       <a href="https://www.linkedin.com/in/jesus-carrasco-toscano-7753352b8/" target="_blank">
-        <img src="[[https://molinosacem.com/wp-content/uploads/2022/02/logo-Linkedin.png](https://iconos8.es/icon/447/linkedin)](https://www.flaticon.es/icono-gratis/linkedin_3536505?term=linkedin&page=1&position=5&origin=search&related_id=3536505)" alt="LinkedIn" width="100" height="auto"/>
+        <img src="https://www.flaticon.es/icono-gratis/linkedin_3536505?term=linkedin&page=1&position=5&origin=search&related_id=3536505" alt="LinkedIn" width="100" height="auto"/>
       </a>
     </li>
     <li>
