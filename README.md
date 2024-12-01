@@ -22,7 +22,6 @@
 <hr>
 
 ## **Contáctame**
-<!-- Cargar Bootstrap Icons usando un enlace HTML en Markdown -->
 <div align="left">
   <ul style="list-style: none; padding: 0;">
     <li>
@@ -38,7 +37,8 @@
   </ul>
 </div>
 
-<!-- Link para cargar Bootstrap Icons -->
-<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
+<style>
+@import url('https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css');
+</style>
 
 
