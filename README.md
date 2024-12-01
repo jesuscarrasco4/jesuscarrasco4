@@ -27,7 +27,7 @@
   <ul style="list-style: none; padding: 0;">
     <li>
       <a href="https://www.linkedin.com/in/jesus-carrasco-toscano-7753352b8/" target="_blank">
-        <img src="[https://www.flaticon.es/icono-gratis/linkedin_3536505?term=linkedin&page=1&position=5&origin=search&related_id=3536505](https://cdn-icons-png.flaticon.com/256/174/174857.png)" alt="LinkedIn" width="100" height="auto"/>
+        <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="LinkedIn" width="100" height="auto"/>
       </a>
     </li>
     <li>
