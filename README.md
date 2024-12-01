@@ -34,7 +34,8 @@ Me considero una persona con iniciativa. Disfruto proponiendo soluciones creativ
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" width="30">
   </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="tel:+34693819612" style="text-decoration: none; color: inherit;">
-    <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" alt="Teléfono" width="30">
-  </a>
+<a href="tel:+34693819612" style="text-decoration: none; color: inherit; display: flex; align-items: center; gap: 8px;">
+  <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" alt="Teléfono" width="30">
+  <span>+34 693819612</span>
+</a>
 </div>
