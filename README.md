@@ -32,7 +32,7 @@
     </li>
     <li>
       <a href="mailto:jesusscarrassco4@gmail.com">
-        <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Email" width="100" height="70"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="Email" width="100" height="70"/>
       </a>
     </li>
   </ul>
