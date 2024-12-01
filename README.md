@@ -22,19 +22,20 @@
 <hr>
 
 ## **Contáctame**
+<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
 
-<div align='left'>
+<div align="left">
   <ul style="list-style: none; padding: 0;">
-    <ol>
-      <a href="https://www.linkedin.com/in/jesus-carrasco-toscano-7753352b8/" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="LinkedIn" width="100" height="auto"/>
+    <li>
+      <a href="https://www.linkedin.com/in/jesus-carrasco-toscano-7753352b8/" target="_blank" style="text-decoration: none; color: inherit;">
+        <i class="bi bi-linkedin" style="font-size: 2rem;"></i> LinkedIn
       </a>
-    </ol>
-    <ol>
-      <a href="mailto:jesusscarrassco4@gmail.com">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="Email" width="100" height="70"/>
+    </li>
+    <li>
+      <a href="mailto:jesusscarrassco4@gmail.com" style="text-decoration: none; color: inherit;">
+        <i class="bi bi-envelope" style="font-size: 2rem;"></i> Email
       </a>
-    </ol>
+    </li>
   </ul>
 </div>
 
