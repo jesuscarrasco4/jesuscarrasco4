@@ -58,6 +58,8 @@ Me considero una persona con iniciativa. Disfruto proponiendo soluciones creativ
   </a>
 </p>
 
+<hr>
+
 ## **Contáctame**
 <div align="left" style="display: flex; gap: 1rem; align-items: center;">
   <a href="https://www.linkedin.com/in/jesus-carrasco-toscano-7753352b8/" target="_blank" style="text-decoration: none; color: inherit;">
