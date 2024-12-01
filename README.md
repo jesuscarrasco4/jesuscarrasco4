@@ -17,7 +17,7 @@
 ## Sobre mí
 
 - Apasionado de la tecnología, con ganas de poner en práctica todos mis conocimientos adquiridos. Me gusta trabajar en equipo y dar lo máximo de mí.
-- 🌱 Actualmente estoy aprendiendo más sobre **JavaScript, HTML, CSS, PHP...**
+- Actualmente estoy aprendiendo más sobre **JavaScript, HTML, CSS, PHP...**
 
 <hr>
 
@@ -27,12 +27,12 @@
   <ul style="list-style: none; padding: 0;">
     <li>
       <a href="https://www.linkedin.com/in/jesus-carrasco-toscano-7753352b8/" target="_blank">
-        <img src="https://molinosacem.com/wp-content/uploads/2022/02/logo-Linkedin.png" alt="LinkedIn" width="100" height="auto"/>
+        <img src="[https://molinosacem.com/wp-content/uploads/2022/02/logo-Linkedin.png](https://iconos8.es/icon/447/linkedin)" alt="LinkedIn" width="100" height="auto"/>
       </a>
     </li>
     <li>
       <a href="mailto:jesusscarrassco4@gmail.com">
-        <img src="https://xneelo.co.za/help-centre/wp-content/uploads/2016/12/gmail-logo-1.png" alt="Email" width="100" height="70"/>
+        <img src="[https://xneelo.co.za/help-centre/wp-content/uploads/2016/12/gmail-logo-1.png](https://iconos8.es/icon/53388/mail)" alt="Email" width="100" height="70"/>
       </a>
     </li>
   </ul>
