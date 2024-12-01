@@ -26,19 +26,13 @@
   <ul style="list-style: none; padding: 0;">
     <li>
       <a href="https://www.linkedin.com/in/jesus-carrasco-toscano-7753352b8/" target="_blank" style="text-decoration: none; color: inherit;">
-        <i class="bi bi-linkedin" style="font-size: 2rem;"></i> LinkedIn
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30"> LinkedIn
       </a>
     </li>
     <li>
       <a href="mailto:jesusscarrassco4@gmail.com" style="text-decoration: none; color: inherit;">
-        <i class="bi bi-envelope" style="font-size: 2rem;"></i> Email
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" width="30"> Email
       </a>
     </li>
   </ul>
 </div>
-
-<style>
-@import url('https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css');
-</style>
-
-
