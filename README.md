@@ -25,16 +25,16 @@
 
 <div align='left'>
   <ul style="list-style: none; padding: 0;">
-    <li>
+    <ol>
       <a href="https://www.linkedin.com/in/jesus-carrasco-toscano-7753352b8/" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="LinkedIn" width="100" height="auto"/>
       </a>
-    </li>
-    <li>
+    </ol>
+    <ol>
       <a href="mailto:jesusscarrassco4@gmail.com">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="Email" width="100" height="70"/>
       </a>
-    </li>
+    </ol>
   </ul>
 </div>
 
