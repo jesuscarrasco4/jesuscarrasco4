@@ -32,7 +32,7 @@
     </li>
     <li>
       <a href="mailto:jesusscarrassco4@gmail.com">
-        <img src="https://cdn-icons-png.flaticon.com/256/281/281769.png" alt="Email" width="100" height="70"/>
+        <img src="https://cdn-icons-png.flaticon.com/256/5968/5968534.png" alt="Email" width="100" height="70"/>
       </a>
     </li>
   </ul>
