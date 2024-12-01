@@ -24,9 +24,10 @@
 ## **Contáctame**
 <div align="left" style="display: flex; gap: 1rem; align-items: center;">
   <a href="https://www.linkedin.com/in/jesus-carrasco-toscano-7753352b8/" target="_blank" style="text-decoration: none; color: inherit;">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30"> LinkedIn
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30">
   </a>
+  -------
   <a href="mailto:jesusscarrassco4@gmail.com" style="text-decoration: none; color: inherit;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" width="30"> Email
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" width="30">
   </a>
 </div>
