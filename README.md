@@ -53,51 +53,38 @@
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jesusscarrasco&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jesusscarrasco&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusscarrasco&layout=compact&theme=radical" alt="Top Langs" />
 </div>
 
 ## 📫 Contacto
 
-<table>
-  <tr>
-    <td>
-      <a href="https://www.linkedin.com/in/jesus-carrasco-toscano-7753352b8/" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30">
-      </a>
-    </td>
-    <td>
-      <a href="https://www.linkedin.com/in/jesus-carrasco-toscano-7753352b8/" target="_blank">
-        LinkedIn
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="mailto:jesusscarrasco04@gmail.com">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" width="30">
-      </a>
-    </td>
-    <td>
-      <a href="mailto:jesusscarrasco04@gmail.com">
-        jesusscarrasco04@gmail.com
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="tel:+34693819612">
-        <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" alt="Teléfono" width="30">
-      </a>
-    </td>
-    <td>
-      <a href="tel:+34693819612">
-        +34 693819612
-      </a>
-    </td>
-  </tr>
-</table>
----
-
+<div align="center">
+  <table style="width:60%; margin:auto;">
+    <tr>
+      <td align="center" width="33%">
+        <a href="https://www.linkedin.com/in/jesus-carrasco-toscano-7753352b8/" target="_blank" style="text-decoration:none;">
+          <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40"/><br>
+          <span style="color:white; text-decoration:none;">LinkedIn</span>
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <a href="mailto:jesusscarrasco04@gmail.com" style="text-decoration:none;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" width="40"/><br>
+          <span style="color:white; text-decoration:none;">jesusscarrasco04@gmail.com</span>
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <a href="tel:+34693819612" style="text-decoration:none;">
+          <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" alt="Teléfono" width="40"/><br>
+          <span style="color:white; text-decoration:none;">+34 693819612</span>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+----
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=tuusuario&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
