@@ -58,23 +58,44 @@
 
 ## 📫 Contacto
 
-<div align="left" style="display: flex; align-items: center; gap: 20px;">
-  <a href="https://www.linkedin.com/in/jesus-carrasco-toscano-7753352b8/" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30">
-    <span>LinkedIn</span>
-  </a>
-  
-  <a href="https://mail.google.com/mail/u/1/?fs=1&to=jesusscarrasco04@gmail.com&tf=cm" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" width="30">
-    <span>Email</span>
-  </a>
-  
-  <a href="tel:+34693819612" style="text-decoration: none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" alt="Teléfono" width="30">
-    <span>+34 693819612</span>
-  </a>
-</div>
-
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/jesus-carrasco-toscano-7753352b8/" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/jesus-carrasco-toscano-7753352b8/" target="_blank">
+        LinkedIn
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="mailto:jesusscarrasco04@gmail.com">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" width="30">
+      </a>
+    </td>
+    <td>
+      <a href="mailto:jesusscarrasco04@gmail.com">
+        jesusscarrasco04@gmail.com
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="tel:+34693819612">
+        <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" alt="Teléfono" width="30">
+      </a>
+    </td>
+    <td>
+      <a href="tel:+34693819612">
+        +34 693819612
+      </a>
+    </td>
+  </tr>
+</table>
 ---
 
 <div align="center">
