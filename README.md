@@ -3,9 +3,6 @@
 <div align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/1208/1208833.png" width="100" alt="Developer Icon">
   <h3>Desarrollador Web Full Stack</h3>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&center=true&vCenter=true&width=800&color=26F766&lines=A+programar+se+aprende+programando" alt="Typing SVG" />
-  </a>
 </div>
 
 ## 📚 Sobre mí
