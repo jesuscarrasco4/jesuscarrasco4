@@ -36,7 +36,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
 </div>
 
 ### Base de Datos y DevOps
@@ -50,7 +49,9 @@
 <div align="center">
   <!-- Cambia TU_USUARIO_GITHUB por tu usuario real de GitHub -->
   <img src="https://github-readme-stats.vercel.app/api?username=jesuscarrasco4&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jesuscarrasco4&theme=radical" alt="GitHub Streak" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesuscarrasco4&layout=compact&theme=radical" alt="Top Langs" />
 </div>
 
